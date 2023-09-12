@@ -26,6 +26,8 @@ I'm Aaron</h1>
 <img style="margin: 10px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" alt="Argo CD" height="60" />
 </div>
 
+Simple CV -> <a href="https://github.com/madgrid/madgrid/blob/main/cv.yml">Click Here</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaron-madved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkr952" height="30" width="40" /></a>
