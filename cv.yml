@@ -2,7 +2,7 @@ Name:     Aaron Madved
 Location: Kent, Ohio, USA / Hong Kong
 
 Mission:
-  Keep it simple, work effiencently, solve problems, never stop learning.
+  Keep it simple, work efficiently, solve problems, never stop learning.
 
 Summary: |
   Senior Software Engineer (JS, TS, Go, Bash, Perl,
@@ -28,7 +28,7 @@ Education:
   Stopped:    2019
   Details:
     - Mostly focused on data mining, alogorithms, and cryptology
-    - Did not finish have one more credit left.
+    - Did not finish, have one more credit left.
 
 
 - Entity:     Kent State University
@@ -38,7 +38,7 @@ Education:
   Started:    2011
   Stopped:    2016
   Details:
-  - Financed 80% myself working three jobs and own company
+  - Financed 80% myself, working three jobs and own company
   - Was in the Kent State Robotics club as the network engineer
 
 Employment:
@@ -48,8 +48,8 @@ Employment:
   Started:  June 2021
   Stopped:  Present
   Location: Hong Kong, China
-  - Project Manager for staking platform for PoS L1 and L2 chains
-  - Backend Engineer for a crypto bridge in golang with Hashport
+  - Project Manager for staking platform for POS L1 and L2 chains
+  - Backend Engineer for a crypto bridge in Golang with Hashport
   - Infra lead for node as a service
   - Fullstack founding member for Arkhia Hedera RPC service
 
@@ -68,10 +68,10 @@ Employment:
   Stopped:  March 2020
   Location: Pittsburgh, USA
   - Developed course material with Prof. Madj for cloud computing
-  - Helped adminstrate over a dozen teacher assistances
+  - Helped administrate over a dozen teacher assistance
   - Maintained the course infrastructure with Azure
   - Developed new course material using Django
-  - Created the intial launch of SAIL sponsored by Microsoft
+  - Created the initial launch of SAIL sponsored by Microsoft
 
 - Role:     Full Stack Web Developer
   Entity:   Li-x GmBh
@@ -89,7 +89,7 @@ Employment:
   Location: Shanghai, China
   - Core frontend developer for two digital currency exchanges (szzc, rightbtc)
   - Developed the charts, orderbook, KYC authentication, all the user flows
-  - Utilized Angular+, Express, Docker, AWS, Allium Servers
+  - Utilized Angular+, Express, Docker, AWS,  Alibaba Cloud Servers
   - Developed Metaverse blockchain applications explorer, and light wallet 
 
 Volunteer:
@@ -102,4 +102,3 @@ Volunteer:
   Details:
   - Ran a community garden in a low income area
   - Developed programming courses for children
-
