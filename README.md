@@ -7,7 +7,7 @@ I'm Aaron</h1>
 ### About Me
 
 - Lives in Asia, midwestern at heart.
-- Software engineer for 4+ years, DevOps for 2+ years.
+- Software engineer for 6+ years, DevOps for 2+ years.
 - Passion exploring diverse cultures through their lifestyle, cuisine, and mindset..
 - Enjoy producing music, and skateboarding
 - You can reach me at: <a href="aaronmadved@gmail.com">aaronmadved@gmail.com</a>
