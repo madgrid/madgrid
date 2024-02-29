@@ -1,104 +1,180 @@
-Name:     Aaron Madved
-Location: Kent, Ohio, USA / Hong Kong
+Name:     .//\aron madved
+Role:     Senior Full-Stack Developer • DevOps • SRE
+Title:    Senior Software Engineer and Cloud DevOps enthusiast.
+AboutMe: 
+- Software engineer for 6+ years, DevOps for 2+ years.
+- Great social skills, easy to get along and make connections.
+- Interests are in Linux kernel, containers, and minimal software architectures.
+
+Contact:
+- aaronmadved@gmail.com
+- https://github.com/madgrid
+- https://www.linkedin.com/in/aaron-madved
+Location: Kent, Ohio, USA
 
 Mission:
   Keep it simple, work efficiently, solve problems, never stop learning.
 
-Summary: |
-  Senior Software Engineer (JS, TS, Go, Bash, Perl,
-  POSIX, Python) • Site Reliability and DevOps Engineer • Terminal UI
-  Developer • Linux Advocate • Cloud Native Platform Developer • Digital Nomad
+Skills:
+- Lang:
+  - Java
+  - JS/TS
+  - Python
+  - Golang
+  - Shell
+  DevOps:
+  - AWS
+  - Azure
+  - GCP
+  - Openshift
+  - Github
+  - Gitlab
+  - Sourcehut
+  - Gitea
+  - JFrog
+  - Docker
+  - Docker Compose
+  - Podman
+  - Kubernetes
+  - Helm
+  - Skaffold
+  - ArgoCD
+  - Github Actions
+  - Jenkins
+  - Terraform
+  - Ansible
+  - Prometheus
+  Dev:
+  - React
+  - Angular
+  - MUI
+  - A11y
+  - Stylized Components
+  - SCSS
+  - CSS
+  - Springboot
+  - JUnit
+  - Hibernate
+  - JPA
+  - JDBC
+  - J2EE
+  - Gradle
+  - Maven
+  - Nodejs
+  - Express.js
+  - Django
+  - Flask
+  - Chi
+  - Fiber
+  - MySQL
+  - PostgreSQL
+  - Redis
+  - MongoDB
+  - Jest
+  - Mocha
+  - REST
+  - Protobufs
+  - gRPC
+  - GraphQL
+  - Websockets
 
-Contact:
-  Email:   aaronmadved@gmail.com
-  GitHub:  madgrid
-  Linkden: aaron-madved
 
-Languages:
-- American English (native)
-- Chinese (spoken HSK2)
+Experience:
+
+- Role:     Lead Backend Developer • Full Stack • DevOps 
+  Entity:   BCW
+  Started:  2021
+  Location: Remote / Hong Kong, China
+  Stack:    Nodejs(express), React, Golang(fiber), Java(Springboot), Bash,
+            Skaffold, Github Actions, Terraform, Helm, Kubernetes, 
+            Docker, AWS, GCP, Postgres, Redis, MongoDB, Prometheus,
+            Grafana, Datadog
+  Details:
+  - Led strategic project management for Proof-of-Stake blockchain staking platform.
+  - Demonstrated backend expertise in Golang for cryptocurrency validator swarm.
+  - AWS Infrastructure/SRE lead for node-as-a-service platform.
+  - Contributed to Hedera foundation SDK GraphQL with Spring Webflux 
+  - Fullstack lead for Hedera RPC service on GCP/GKS
+  - Designed CI/CD architectures for our services.
+  - Implemented Hedera Foundation GraphQL with Spring Boot, utilizing Spring Data JPA.
+  - Integrated Spring Web for efficient data management and seamless web services.
+
+- Role:     Consultant • Software Developer
+  Entity:   CGI
+  Started:  2020
+  Stopped:  2021
+  Location: Remote / Pittsburgh, USA
+  Stack:    Angular, Java(J2EE), Jenkins, JFrog, OpenShift,
+            Artifactory, Docker
+  Details:
+  - Led Angular frontend libraries, showcasing modern UI/UX understanding.
+  - Orchestrated micro frontend architectures with Angular for enhanced modularity.
+  - Ensured seamless pipelines in Jenkins for software delivery.
+  - Assisted Angular teams integrate applications for J2EE backend services.
+
+- Role:     Project Manager • Full Stack Engineer • DevOps
+  Entity:   Carnegie Mellon University
+  Started:  2019
+  Stopped:  2020
+  Location: Pittsburgh, USA
+  Stack:    React, Python(django), HeadlessCMS(Contentiful), Azure, Terraform, Kubernetes,
+            Docker, MySQL
+  Details: 
+  - Ensured system-wide security compliance, establishing robust security protocols.
+  - Collaborated with Professor Madj to enhance academic and technical excellence.
+  - Developed comprehensive cloud computing course content aligned with best practices.
+  - Managed Azure CI/CD deployments and initiated GitOps practices for Terraform.
+
+- Role:     Full Stack Engineer
+  Entity:   Li-x GmBh
+  Started:  2018
+  Stopped:  2019
+  Location: Hamburg, Germany
+  Stack:    Angular, PHP(laravel), Typescript(express), Docker,
+            GCP, MySQL
+  Details:
+  - Led tech stack containerization for scalability and efficiency optimization.
+  - Rewrote backend (PHP to Express) and frontend (Laravel to Angular).
+  - Ensured seamless migrations, rigorous testing, and containerized workflow for security.
+
+- Role:     Full Stack Engineer
+  Entity:   Viewfin
+  Started:  2017
+  Stopped:  2018
+  Location: Shanghai, China
+  Stack:    Angular, Javascript(express), Ionic, AWS, Docker,
+            MySQL, Redis, MongoDB
+  Details:
+  - Distinguished Frontend Engineer for crypto exchange szzc, optimizing UI design.
+  - Demonstrated Full Stack Engineer versatility for RightBTC, focusing on system integrity.
+  - Leveraged blockchain expertise to create innovative dApps for metaverse blockchain.
+  - Pioneered metaverse chain explorer and SPV wallet development for secure transactions.
+ 
+
+Projects:
+- Arkhia - Hedera RPC Provider (https://www.arkhia.io/) (Nodejs, React, Postgres, Redis, GCP, Github Actions, Skaffold, ArgoCD, Kubernetes)
+- Hashport - Crypto Bridge (https://www.hashport.network/) (Golang, React, ProtoBuffs, AWS)
+- Sail Platform - Learning Platform (https://sailplatform.org/) (Python, Django, React, Strapi, Azure, Terraform)
+
 
 Education:
 
-- Entity:     Kent State University
-  Location:   Kent, Ohio
-  Credential: Masters of Digital Science, Computer Science
-  GPA:        "3.6 (4.0=A)"
-  Started:    2018
-  Stopped:    2019
-  Details:
-    - Mostly focused on data mining, alogorithms, and cryptology
-    - Did not finish, have one more credit left.
+- 'Bachelors of Applied Science, Application Development, Kent State University, 2011-2016, 3.6 GPA (4.0=A)'
+- 'Masters of Digital Science, Kent State University, 2018-Present, 3.7 GPA (4.0=A)'
 
+Languages:
+- American English (native)
+- Chinese (spoken hsk2)
 
-- Entity:     Kent State University
-  Location:   Kent, Ohio
-  Credential: Bachelor of Applied Science, Application Development
-  GPA:        "3.6 (4.0=A)"
-  Started:    2011
-  Stopped:    2016
-  Details:
-  - Financed 80% myself, working three jobs and own company
-  - Was in the Kent State Robotics club as the network engineer
-
-Employment:
-
-- Role:     Full Stack / SRE / DevOps / Tech Lead
-  Entity:   BCW
-  Started:  June 2021
-  Stopped:  Present
-  Location: Hong Kong, China
-  - Project Manager for staking platform for POS L1 and L2 chains
-  - Backend Engineer for a crypto bridge in Golang with Hashport
-  - Infra lead for node as a service
-  - Fullstack founding member for Arkhia Hedera RPC service
-
-- Role:     Consultant
-  Entity:   CGI
-  Started:  March 2020
-  Stopped:  June 2021
-  Location: Pittsburgh, USA
-  - Helped developed component libraries
-  - Maintained build pipelines
-  - Created micro frontend architectures
-
-- Role:     Full Stack Web Developer
-  Entity:   Carnegie Mellon University
-  Started:  August 2019
-  Stopped:  March 2020
-  Location: Pittsburgh, USA
-  - Developed course material with Prof. Madj for cloud computing
-  - Helped administrate over a dozen teacher assistance
-  - Maintained the course infrastructure with Azure
-  - Developed new course material using Django
-  - Created the initial launch of SAIL sponsored by Microsoft
-
-- Role:     Full Stack Web Developer
-  Entity:   Li-x GmBh
-  Started:  January 2019
-  Stopped:  August 2019
-  Location: Hamburg, Germany
-  - Company ran a used software exchange
-  - Rewrote an entire PHP to express and dockerized the entire stack
-  - Wrote the entirely new frontend using Angular
-
-- Role:     Full Stack Web Developer
-  Entity:   Viewfin / Metaverse
-  Started:  January 2017
-  Stopped:  December 2018
-  Location: Shanghai, China
-  - Core frontend developer for two digital currency exchanges (szzc, rightbtc)
-  - Developed the charts, orderbook, KYC authentication, all the user flows
-  - Utilized Angular+, Express, Docker, AWS,  Alibaba Cloud Servers
-  - Developed Metaverse blockchain applications explorer, and light wallet 
-
-Volunteer:
-
-- Role:     Americorps Volunteer
-  Entity:   Americorps Foundation
-  Started:  January 2008
-  Stopped:  December 2009 
-  Location: Ravenna, Ohio
-  Details:
-  - Ran a community garden in a low income area
-  - Developed programming courses for children
+Keywords: [Linux, Ubuntu, Debian, Red Hat (CentOS), Kubernetes (k3s),
+Containers (Docker), Virtual Machines, VMWare, Virtual Box, k3os,
+RancherOS, Raspberry Pi, Arduino, UNIX, OpenBSD, AIX, Terminal (TUI),
+Command Line (CLI), Secure Shell (SSH), File Systems (SAN/NAS), TCP/IP,
+UDP, Sockets, HTTP, SMTP, IMAP, POP3, LDAP, Samba, SFTP, DNS, TLS,
+Apache, Nginx, Go (golang), Go Templates, Perl, Python, Bash, POSIX
+Shell, Expect (TCL), Fabric (FabFiles), C, gdb, gcc, strace, HTML, CSS,
+SCSS, Angular, React, HeadlessCMS, JavaScript, JAMStack, Typecscript, 
+Websockets, NodeJS/NPM, PEGN, ABNF, EBNF, SQL, PostgreSQL, Redis, MongoDB,
+UML, YAML, JSON, XML, TOML, Markdown, Pandoc, GraphQL, REST, gRPC, ProtoBuf, 
+curl, nmap, Oauth2, Vim/Vi, VSCode, TMUX, screen, Lynx, w3m, Git, GitHub,
+GitLab, GCP, Azure, AWS, OpenShift, IRC]

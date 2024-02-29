@@ -6,7 +6,6 @@ I'm Aaron</h1>
 
 ### About Me
 
-- Lives in Asia, midwestern at heart.
 - Software engineer for 6+ years, DevOps for 2+ years.
 - Passion exploring diverse cultures through their lifestyle, cuisine, and mindset..
 - Enjoy producing music, and skateboarding
@@ -39,7 +38,8 @@ I'm Aaron</h1>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Golang" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Nodejs" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="60" />
